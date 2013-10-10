@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.cocoa-nibs.com/blog/2013/10/10/and-so-it-begins-again/</loc>
+        <lastmod>2013-10-10T12:56:23-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.cocoa-nibs.com/about/</loc>
         <lastmod>2013-10-06T14:38:59-04:00</lastmod>
     </url>
@@ -10,11 +14,11 @@
     </url>
     <url>
         <loc>http://www.cocoa-nibs.com/blog/archives/</loc>
-        <lastmod>2013-10-06T12:24:56-04:00</lastmod>
+        <lastmod>2013-10-10T12:56:23-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.cocoa-nibs.com/</loc>
-        <lastmod>2013-10-06T12:24:56-04:00</lastmod>
+        <lastmod>2013-10-10T12:56:23-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.cocoa-nibs.com/robots.txt</loc>

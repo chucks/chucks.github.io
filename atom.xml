@@ -4,7 +4,7 @@
   <title><![CDATA[Cocoa-Nibs]]></title>
   <link href="http://www.cocoa-nibs.com/atom.xml" rel="self"/>
   <link href="http://www.cocoa-nibs.com/"/>
-  <updated>2013-10-06T14:55:47-04:00</updated>
+  <updated>2013-10-10T12:56:24-04:00</updated>
   <id>http://www.cocoa-nibs.com/</id>
   <author>
     <name><![CDATA[Chuck Shnider]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[And So It Begins (again)]]></title>
+    <link href="http://www.cocoa-nibs.com/blog/2013/10/10/and-so-it-begins-again/"/>
+    <updated>2013-10-10T09:04:00-04:00</updated>
+    <id>http://www.cocoa-nibs.com/blog/2013/10/10/and-so-it-begins-again</id>
+    <content type="html"><![CDATA[<p>Welcome to my new blog <em>Cocoa Nibs</em>. I&rsquo;m still getting things set up, so expect things to change around a bit while I get back into blogging.</p>
+
+<p>I had a personal blog hosted on Blogger for a number of years, but it was strictly a friends-and-family thing–not even indexed in Google. That was fine, but it wasn&rsquo;t the sort of place where I could join the larger conversation.</p>
+
+<p>I intend to focus somewhat on Cocoa development and related topics, hence the title. However, I&rsquo;m terrible at staying on-topic, so there is sure to be other random stuff now and then.</p>
+
+<p>So sit back, relax, and enjoy the flight :&ndash;)</p>
+]]></content>
+  </entry>
   
 </feed>
